@@ -6,6 +6,7 @@
 using loanFunction = std::function<void(double&)>;
 
 class BankOneAccount {
+    
 public:       
     loanFunction makeLoanFunction();
     void setName(std::string), setSex(std::string), setAge(int);
@@ -19,5 +20,5 @@ private:
     std::string name, sex, punctualityGrade;
     int age;
     double balance, deposit, dept;
-    
+
 };
