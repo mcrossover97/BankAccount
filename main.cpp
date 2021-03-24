@@ -2,7 +2,6 @@
 #include "BankAccount.h"
 
 int main() {
-
 	double loanAmount = 1000;
 	BankOneAccount MohammadBankAccount;
 	MohammadBankAccount.setName("Mohammad");
@@ -17,5 +16,4 @@ int main() {
 	MohammadBankAccount.printName();
 	MohammadBankAccount.printBalance();
 	MohammadBankAccount.printDept();
-	
 }
