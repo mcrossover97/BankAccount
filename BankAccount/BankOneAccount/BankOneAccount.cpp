@@ -1,4 +1,4 @@
-#include "BankAccount.h"
+#include "BankOneAccount.hpp"
 
 void BankOneAccount::setName(std::string n) { name = n; };
 void BankOneAccount::setSex(std::string s) { sex = s; };

@@ -1,5 +1,4 @@
-#include <iostream>
-#include "BankAccount/BankAccount.h"
+#include "BankAccount/BankAccount.hpp"
 
 int main() {
 	double loanAmount = 1000;
