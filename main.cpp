@@ -16,4 +16,6 @@ int main() {
 	MohammadBankAccount.printName();
 	MohammadBankAccount.printBalance();
 	MohammadBankAccount.printDept();
+	std::cout << "Goodbye!" << std::endl;
+	std::cout << "Goodbye Again!" << std::endl;
 }
