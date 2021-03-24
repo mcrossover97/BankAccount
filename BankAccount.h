@@ -19,4 +19,5 @@ private:
     std::string name, sex, punctualityGrade;
     int age;
     double balance, deposit, dept;
+    
 };
